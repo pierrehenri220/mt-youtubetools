@@ -1,0 +1,13 @@
+id: 'YoutubeTools'
+key: 'YoutubeTools'
+name: 'Youtube Tools'
+description: Plugin to help working with Youtube
+version: 0.1
+author_name: 'Pierre-Henri Lavigne'
+author_link: 'https://re.movable-ti.me/'
+l10n_class: 'YoutubeTools::L10N'
+schema_version: 1
+
+callbacks:
+  build_page: $YoutubeTools::YoutubeTools::Callbacks::_build_page
+
