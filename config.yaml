@@ -2,9 +2,9 @@ id: 'YoutubeTools'
 key: 'YoutubeTools'
 name: 'Youtube Tools'
 description: Plugin to help working with Youtube
-version: 0.2
+version: 0.2.1
 author_name: 'Pierre-Henri Lavigne'
-author_link: 'https://re.movable-ti.me/'
+author_link: 'https://pierrehenri220.tech/webdev/mtplugins/YoutubeTools.html'
 l10n_class: 'YoutubeTools::L10N'
 schema_version: 1
 
